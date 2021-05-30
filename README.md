@@ -1,10 +1,10 @@
 # ![alt text](https://github.com/adithyachan/RecycleHub/blob/master/RecycleHub/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20%402x.png "RecycleHub Logo") RecycleHub
 
-Helps make recycling easier (and more fun) by using a neural network to detect what type of trash a user takes an image of. Also gives an estimated dollar amount that the user could receive for recycling the item and points the user to a nearby recycling plant. 
+Helps make recycling easier (and more fun) by using a neural network to detect what type of trash a user takes an image of. Also gives an estimated dollar amount that the user could recieve for recycling the item and points the user to a nearby recycling plant. 
 
 # Installation
 
-1. Clone the repository with `git clone https://github.com/adithyachan/RecycleHub.git`
+1. Clone the repository with `git clone https://github.com/adithyachan/RecycleHub.git` 
 
 2. Navigate to `RecycleHub/` and install the necesary libraries with `pod install`
 
